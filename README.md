@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/AlstonFelipe/AlstonFelipe/output/github-snake-dark.svg)
 ---
 
 ### 📊 Estatísticas do GitHub
