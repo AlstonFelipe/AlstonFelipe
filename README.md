@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Alston Felipe</h1>
 
 <p align="center">
-  <b>Engenheiro de Software | Entusiasta de IA | Desenvolvedor Full Stack</b>
+  <b> Analista de Sistemas | Entusiasta de IA | Desenvolvedor Full Stack | Autor e Escritor </b>
 </p>
 
 ---
