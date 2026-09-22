@@ -38,5 +38,5 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlstonFelipe&theme=tokyonight" width="100%" alt="Resumo do Perfil" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlstonFelipe&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
 </p>
