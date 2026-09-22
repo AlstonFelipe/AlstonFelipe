@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/AlstonFelipe/AlstonFelipe/output/github-snake-dark.svg)
+
 <p align="center">
   <img src="banner.jpg" alt="Alston Felipe Banner" width="100%">
 </p>
@@ -29,12 +31,3 @@
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/AlstonFelipe/AlstonFelipe/output/github-snake-dark.svg)
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlstonFelipe&show_icons=true&theme=tokyonight&count_private=true" height="180em" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlstonFelipe&layout=compact&theme=tokyonight" height="180em" alt="Linguagens mais usadas" />
-</p>
