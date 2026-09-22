@@ -38,6 +38,5 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlstonFelipe&show_icons=true&theme=tokyonight&count_private=true" height="175" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlstonFelipe&layout=compact&theme=tokyonight" height="175" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlstonFelipe&theme=tokyonight" width="100%" alt="Resumo do Perfil" />
 </p>
